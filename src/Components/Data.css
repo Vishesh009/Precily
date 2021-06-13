@@ -1,0 +1,62 @@
+.form-link{
+    font-size: 16px;
+    font-weight: bold;
+    margin: 10px;
+}
+.form-link:hover{
+    color: black;
+}
+
+.table{
+    width: 95%;
+    margin: 20px;
+    border-collapse: separate;
+    border-spacing: 8px 16px;
+    overflow-x: hidden;;
+}
+.table-row{
+    margin: 10px;
+}
+.table-cell{
+   max-width: 10%;
+    word-wrap: break-word;
+    margin-left: 10px;
+    justify-content: start;
+    text-align: center;
+}
+.table-cell-tc-right{
+    text-align: start;
+}
+thead{
+    background-color: black;
+    color: white;
+    margin-bottom: 10px;
+}
+.table-heading{
+    margin-left: 5px;
+    min-width: 80px;
+    margin-bottom: 15px !important;
+}
+.action-button{
+    display: flex;
+    cursor: pointer;
+}
+.action-button .button{
+    background-color: black;
+    color: white;
+    margin-left: 5px;
+    cursor: pointer;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: .1s ease-in-out;
+}
+.action-button .button:hover{
+    /* background-color: gray; */
+    transform: scale(0.95);
+
+}
+.MuiBackdrop-root {
+   background-color:  rgba(255, 255, 255, 0.9) !important;
+}
+
+

@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Precily/static/css/main.183b6ac5.chunk.css",
+    "main.js": "/Precily/static/js/main.ad24bc35.chunk.js",
+    "main.js.map": "/Precily/static/js/main.ad24bc35.chunk.js.map",
+    "runtime-main.js": "/Precily/static/js/runtime-main.9f2a18b9.js",
+    "runtime-main.js.map": "/Precily/static/js/runtime-main.9f2a18b9.js.map",
+    "static/js/2.2aecbd74.chunk.js": "/Precily/static/js/2.2aecbd74.chunk.js",
+    "static/js/2.2aecbd74.chunk.js.map": "/Precily/static/js/2.2aecbd74.chunk.js.map",
+    "static/js/3.b79604eb.chunk.js": "/Precily/static/js/3.b79604eb.chunk.js",
+    "static/js/3.b79604eb.chunk.js.map": "/Precily/static/js/3.b79604eb.chunk.js.map",
+    "index.html": "/Precily/index.html",
+    "static/css/main.183b6ac5.chunk.css.map": "/Precily/static/css/main.183b6ac5.chunk.css.map",
+    "static/js/2.2aecbd74.chunk.js.LICENSE.txt": "/Precily/static/js/2.2aecbd74.chunk.js.LICENSE.txt",
+    "static/media/precily.3fbf364b.png": "/Precily/static/media/precily.3fbf364b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f2a18b9.js",
+    "static/js/2.2aecbd74.chunk.js",
+    "static/css/main.183b6ac5.chunk.css",
+    "static/js/main.ad24bc35.chunk.js"
+  ]
+}
